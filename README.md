@@ -1,2 +1,2 @@
-# Apple
-The first try of GitHub.
+# ToJunYu 生活琐事的记录/美好瞬间
+# 两人共同的网站
